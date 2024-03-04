@@ -1,0 +1,23 @@
+programa {
+  funcao inicio() {
+  caracter nome
+  inteiro idade
+  real altura
+  {
+    escreva ("Por favor, digite seu nome: ")
+    leia(nome)
+    
+    escreva ("Digite sua idade: ")
+    leia(idade)
+
+escreva("Digite sua altura (em metros): ")
+leia(altura)
+
+escreva ("dados informados")
+escreva ("nome", Ana Luisa)
+escreva("idade: " 21, "anos")
+escreva("Altura", 1.70, "metros")
+  }
+  }
+
+}
